@@ -14,7 +14,7 @@ Welcome to my interactive portfolio, built with cutting-edge technologies that s
 My portfolio is accessible via both the **standard web** and the **Tor network**, ensuring enhanced privacy for all users.
 
 🔗 **Explore Now:**  
-🌐 Standard Web: [saurabhkokate.netlify.app](https://lnkd.in/dkscfCn8)  
+🌐 Standard Web: [saurabhkokate.netlify.app](https://saurabhkokate.netlify.app/)  
 🕵️‍♂️ Tor (.onion): [x3awmnz634fb65cei4aywsfn4rzwl3fqihnrh6bp2y72vcn3nspdzdad.onion](https://x3awmnz634fb65cei4aywsfn4rzwl3fqihnrh6bp2y72vcn3nspdzdad.onion/)
 
 🔑 **Private Key:**  
